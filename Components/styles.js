@@ -42,6 +42,7 @@ export const style = StyleSheet.create({
     },
     setFontMedium: {
         fontSize: 30
+        
     },
     text: {
         color:'black' ,
